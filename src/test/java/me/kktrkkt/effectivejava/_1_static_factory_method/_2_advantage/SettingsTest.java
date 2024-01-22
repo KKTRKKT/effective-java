@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class SettingsTest {
 
-    @DisplayName("생성자 테스트")
+    @DisplayName("생성자가 인스턴스를 하나만 생성하는지 확인")
     @Test
     void newInstanceTest() {
         Settings settings1 = Settings.newInstance();
