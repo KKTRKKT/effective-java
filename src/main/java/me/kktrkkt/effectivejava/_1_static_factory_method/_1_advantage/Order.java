@@ -19,7 +19,7 @@ public class Order {
         this.urgent = urgent;
     }*/
 
-    // 시그니처 중복문제를 해결한다 
+    // 시그니처 중복문제를 해결한다
     static public Order primeOrder(Product product){
         Order order = new Order();
         order.prime = true;
