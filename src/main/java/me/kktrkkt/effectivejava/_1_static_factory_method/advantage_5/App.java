@@ -1,8 +1,6 @@
-package me.kktrkkt.effectivejava._1_static_factory_method._5_advantage;
+package me.kktrkkt.effectivejava._1_static_factory_method.advantage_5;
 
 //import me.kktrkkt.foodserviceinterface.FoodService;
-
-import java.util.ServiceLoader;
 
 public class App {
 

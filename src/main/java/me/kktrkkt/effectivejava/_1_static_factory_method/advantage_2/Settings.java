@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._1_static_factory_method._2_advantage;
+package me.kktrkkt.effectivejava._1_static_factory_method.advantage_2;
 
 public class Settings {
 

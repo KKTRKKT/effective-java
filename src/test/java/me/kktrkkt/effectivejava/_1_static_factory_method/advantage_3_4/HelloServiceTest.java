@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._1_static_factory_method._3_4_advantage;
+package me.kktrkkt.effectivejava._1_static_factory_method.advantage_3_4;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
