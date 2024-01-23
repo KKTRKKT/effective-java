@@ -6,7 +6,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.2.2</version>
-        <relativePath/> <!-- lookup parent from repository -->
+<!--        <relativePath>../food-service</relativePath>-->
     </parent>
     <groupId>me.kktrkkt</groupId>
     <artifactId>effective-java</artifactId>
@@ -38,8 +38,17 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+<!--        <dependency>-->
+<!--            <groupId>me.kktrkkt</groupId>-->
+<!--            <artifactId>food-service-interface</artifactId>-->
+<!--            <version>0.0.1-SNAPSHOT</version>-->
+<!--        </dependency>-->
+<!--        <dependency>-->
+<!--            <groupId>me.kktrkkt</groupId>-->
+<!--            <artifactId>apple-food-service</artifactId>-->
+<!--            <version>0.0.1-SNAPSHOT</version>-->
+<!--        </dependency>-->
     </dependencies>
-
     <build>
         <plugins>
             <plugin>
