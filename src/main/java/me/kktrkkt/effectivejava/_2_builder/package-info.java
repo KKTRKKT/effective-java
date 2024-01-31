@@ -12,6 +12,8 @@ package me.kktrkkt.effectivejava._2_builder;
         - 플루언트 API 또는 메서드 체이닝을 통해 변수를 설정하는 방식
         특징: 생성자 체이닝보다 코드 사용이 편하고, 자바빈즈 패턴보다 안전하다.
         단점: 코드가 복잡해진다.
+    4. 계층형 빌더 패턴
+        - 빌더 패턴을 상속할때 사용하는 방식 자세한 내용은 me.kktrkkt.effectivejava._2_builder._4_hierarchical_builder.Pizza 참고
 
 * 플루언트 API는 메소드 체이닝에 기반한 설계한 인터페이스
 * 메소드 체이닝은 this를 반환해 메소드를 이어서 호출하는 방법
