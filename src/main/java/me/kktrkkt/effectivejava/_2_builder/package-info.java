@@ -17,4 +17,5 @@ package me.kktrkkt.effectivejava._2_builder;
 
 * 플루언트 API는 메소드 체이닝에 기반한 설계한 인터페이스
 * 메소드 체이닝은 this를 반환해 메소드를 이어서 호출하는 방법
+* 자바빈즈는 일종의 기준 또는 컨벤션으로 인자가 없는 기본생성자, 모든 속성 비공개(getter, setter 생성), Serializable 구현 등의 규칙이 있다.
  */
