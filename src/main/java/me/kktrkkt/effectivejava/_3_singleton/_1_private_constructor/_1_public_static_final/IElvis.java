@@ -1,0 +1,5 @@
+package me.kktrkkt.effectivejava._3_singleton._1_private_constructor._1_public_static_final;
+
+public interface IElvis {
+    void sing();
+}
