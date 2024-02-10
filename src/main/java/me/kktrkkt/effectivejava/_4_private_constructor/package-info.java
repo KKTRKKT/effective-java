@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._4_util;
+package me.kktrkkt.effectivejava._4_private_constructor;
 
 /*
 인스턴스화를 막기 위해서 private 생성자를 사용한다.
