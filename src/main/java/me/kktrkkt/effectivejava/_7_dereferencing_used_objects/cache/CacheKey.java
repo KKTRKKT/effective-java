@@ -31,4 +31,8 @@ public class CacheKey {
                 ", created=" + created +
                 '}';
     }
+
+    public LocalDateTime getCreated() {
+        return created;
+    }
 }
