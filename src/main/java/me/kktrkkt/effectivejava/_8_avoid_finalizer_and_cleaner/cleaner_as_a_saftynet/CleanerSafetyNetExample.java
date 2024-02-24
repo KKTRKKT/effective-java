@@ -5,7 +5,7 @@ import java.util.List;
 
 // cleaner를 사용할 시 그나마 권장하는 방법으로 자원 반납용 안전망으로 사용한다.
 // 자원 반납 안전망이란 객체가 AutoCloseable을 구현하지만
-// 클라이언트가 try-resources 문법을 사용하지 않을 경우를 대비한 방법으로
+// 클라이언트가 try-with-resources 문법을 사용하지 않을 경우를 대비한 방법으로
 // GC가 수거할때 자원을 같이 반납할 수 있도록 하는 방식이다.
 public class CleanerSafetyNetExample implements AutoCloseable{
 

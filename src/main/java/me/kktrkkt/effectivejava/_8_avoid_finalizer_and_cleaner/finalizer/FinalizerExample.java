@@ -1,6 +1,7 @@
 package me.kktrkkt.effectivejava._8_avoid_finalizer_and_cleaner.finalizer;
 
-public class FinalizerExample extends Object {
+// Object의 finalize를 오버라이딩해 구현한다.
+public class FinalizerExample {
 
     @Override
     protected void finalize() {
