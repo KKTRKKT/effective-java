@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.EmptyStackException;
 
 // public 접근제어자와 반환 타입을 명시해주고 super.clone()까지는 불변객체 clone 과정과 같다.
-// 배열은 clone을 통해 복제한다. 단, 배열의 요소는 얕은 복사다.
+// 배열은 clone을 통해 복제한다. 단, 배열의 요소는 얕은 복사가 된다. 깊은 복사가 필요하면 따로 구현이 필요
 public class ShallowCopyStack implements Cloneable{
 
     Object[] elements;
