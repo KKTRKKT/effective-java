@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._2_builder._1_constructor_chaning;
+package me.kktrkkt.effectivejava._02_builder._1_constructor_chaning;
 
 // 자기 생성자를 호출해 인스턴스를 생성한다.
 // 매개변수가 많아지면 사용하기가 어려워진다.

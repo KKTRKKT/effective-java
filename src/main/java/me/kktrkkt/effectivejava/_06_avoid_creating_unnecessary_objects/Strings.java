@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._6_avoid_creating_unnecessary_objects;
+package me.kktrkkt.effectivejava._06_avoid_creating_unnecessary_objects;
 
 // String은 기본적을 상수풀에 저장하기 때문에 같은 문자열이면 재사용한다.
 public class Strings {

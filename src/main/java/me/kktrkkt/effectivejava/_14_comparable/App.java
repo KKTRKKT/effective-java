@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._14_Comparable;
+package me.kktrkkt.effectivejava._14_comparable;
 
 import java.math.BigDecimal;
 

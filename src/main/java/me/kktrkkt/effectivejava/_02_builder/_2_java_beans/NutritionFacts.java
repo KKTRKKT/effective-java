@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._2_builder._2_java_beans;
+package me.kktrkkt.effectivejava._02_builder._2_java_beans;
 
 // setter를 통해 속성을 설정한다.
 // 객체를 완성하는데 메소드를 여러번 호출해야되고, 불변객체를 만들 수 없다.

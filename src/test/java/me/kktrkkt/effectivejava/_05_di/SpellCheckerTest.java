@@ -1,8 +1,6 @@
-package me.kktrkkt.effectivejava._5_di;
+package me.kktrkkt.effectivejava._05_di;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class SpellCheckerTest {
 

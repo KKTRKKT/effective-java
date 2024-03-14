@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._3_singleton._1_public_static_final;
+package me.kktrkkt.effectivejava._03_singleton._1_public_static_final;
 
 import java.io.Serial;
 import java.io.Serializable;

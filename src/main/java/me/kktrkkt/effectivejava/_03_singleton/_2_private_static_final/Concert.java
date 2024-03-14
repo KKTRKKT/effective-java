@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._3_singleton._2_private_static_final;
+package me.kktrkkt.effectivejava._03_singleton._2_private_static_final;
 
 import java.util.function.Supplier;
 

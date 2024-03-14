@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._9_use_try_with_resources.trywithresources;
+package me.kktrkkt.effectivejava._09_use_try_with_resources.trywithresources;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

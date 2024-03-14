@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._8_avoid_finalizer_and_cleaner.clenaer;
+package me.kktrkkt.effectivejava._08_avoid_finalizer_and_cleaner.clenaer;
 
 import java.util.List;
 

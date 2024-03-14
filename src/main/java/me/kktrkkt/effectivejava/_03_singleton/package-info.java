@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._3_singleton;
+package me.kktrkkt.effectivejava._03_singleton;
 
 /*
 생성자나 열거타입으로 싱글톤임을 보장하라

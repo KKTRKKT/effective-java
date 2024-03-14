@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._14_Comparable;
+package me.kktrkkt.effectivejava._14_comparable;
 
 /*
     Comparable을 구현할지 고민하라

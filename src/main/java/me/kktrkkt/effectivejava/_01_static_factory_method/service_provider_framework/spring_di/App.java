@@ -1,6 +1,6 @@
-package me.kktrkkt.effectivejava._1_static_factory_method.service_provider_framework.spring_di;
+package me.kktrkkt.effectivejava._01_static_factory_method.service_provider_framework.spring_di;
 
-import me.kktrkkt.effectivejava._1_static_factory_method.service_provider_framework.bridge_pattern.Enchantment;
+import me.kktrkkt.effectivejava._01_static_factory_method.service_provider_framework.bridge_pattern.Enchantment;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

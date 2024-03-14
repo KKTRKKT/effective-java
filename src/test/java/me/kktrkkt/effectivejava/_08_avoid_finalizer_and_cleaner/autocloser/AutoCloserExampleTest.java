@@ -1,8 +1,6 @@
-package me.kktrkkt.effectivejava._8_avoid_finalizer_and_cleaner.autocloser;
+package me.kktrkkt.effectivejava._08_avoid_finalizer_and_cleaner.autocloser;
 
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class AutoCloserExampleTest {
 

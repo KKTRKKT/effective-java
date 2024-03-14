@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._2_builder._4_hierarchical_builder;
+package me.kktrkkt.effectivejava._02_builder._4_hierarchical_builder;
 
 public class NyPizza extends Pizza{
 

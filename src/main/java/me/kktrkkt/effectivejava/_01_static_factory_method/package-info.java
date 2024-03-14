@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._1_static_factory_method;
+package me.kktrkkt.effectivejava._01_static_factory_method;
 
 /*
 정적팩토리메소드란 static 키워드를 통해 객체를 생성하는 방법을 의미한다.

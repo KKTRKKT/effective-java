@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._7_dereferencing_used_objects.cache;
+package me.kktrkkt.effectivejava._07_dereferencing_used_objects.cache;
 
 import java.util.Map;
 import java.util.WeakHashMap;

@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._8_avoid_finalizer_and_cleaner.non_static_inner_has_outer_reference;
+package me.kktrkkt.effectivejava._08_avoid_finalizer_and_cleaner.non_static_inner_has_outer_reference;
 
 import java.util.Arrays;
 

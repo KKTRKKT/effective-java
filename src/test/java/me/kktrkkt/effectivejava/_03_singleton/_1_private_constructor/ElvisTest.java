@@ -1,7 +1,7 @@
-package me.kktrkkt.effectivejava._3_singleton._1_private_constructor;
+package me.kktrkkt.effectivejava._03_singleton._1_private_constructor;
 
-import me.kktrkkt.effectivejava._3_singleton._1_public_static_final.Concert;
-import me.kktrkkt.effectivejava._3_singleton._1_public_static_final.Elvis;
+import me.kktrkkt.effectivejava._03_singleton._1_public_static_final.Concert;
+import me.kktrkkt.effectivejava._03_singleton._1_public_static_final.Elvis;
 import org.junit.jupiter.api.Test;
 
 import java.io.*;

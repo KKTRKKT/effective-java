@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._8_avoid_finalizer_and_cleaner;
+package me.kktrkkt.effectivejava._08_avoid_finalizer_and_cleaner;
 
 /*
 finalizer와 cleaner 사용을 피해라

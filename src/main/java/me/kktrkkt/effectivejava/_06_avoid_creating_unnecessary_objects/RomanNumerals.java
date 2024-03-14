@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._6_avoid_creating_unnecessary_objects;
+package me.kktrkkt.effectivejava._06_avoid_creating_unnecessary_objects;
 
 import java.util.regex.Pattern;
 

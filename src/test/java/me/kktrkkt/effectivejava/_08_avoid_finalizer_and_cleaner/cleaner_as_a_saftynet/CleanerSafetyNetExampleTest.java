@@ -1,12 +1,8 @@
-package me.kktrkkt.effectivejava._8_avoid_finalizer_and_cleaner.cleaner_as_a_saftynet;
+package me.kktrkkt.effectivejava._08_avoid_finalizer_and_cleaner.cleaner_as_a_saftynet;
 
 import org.junit.jupiter.api.Test;
 
-import java.lang.ref.Cleaner;
 import java.util.ArrayList;
-import java.util.List;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class CleanerSafetyNetExampleTest {
 

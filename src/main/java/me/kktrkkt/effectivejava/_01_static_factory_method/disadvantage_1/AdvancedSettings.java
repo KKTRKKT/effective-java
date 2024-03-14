@@ -1,6 +1,6 @@
-package me.kktrkkt.effectivejava._1_static_factory_method.disadvantage_1;
+package me.kktrkkt.effectivejava._01_static_factory_method.disadvantage_1;
 
-import me.kktrkkt.effectivejava._1_static_factory_method.advantage_2.Settings;
+import me.kktrkkt.effectivejava._01_static_factory_method.advantage_2.Settings;
 
 public class AdvancedSettings  {
 

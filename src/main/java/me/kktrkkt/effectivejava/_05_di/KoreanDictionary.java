@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._5_di;
+package me.kktrkkt.effectivejava._05_di;
 
 public class KoreanDictionary implements Dictionary{
 

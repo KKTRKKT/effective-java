@@ -1,6 +1,4 @@
-package me.kktrkkt.effectivejava._6_avoid_creating_unnecessary_objects;
-
-import java.util.stream.IntStream;
+package me.kktrkkt.effectivejava._06_avoid_creating_unnecessary_objects;
 
 // 오토박싱과 언박싱이 자주 일어날 경우 성능에 안좋다.
 // 오토박싱은 long -> Long 처럼 레퍼런스 타입을 자동으로 프리미티브 타입으로 변환해주는것을 뜻한다.

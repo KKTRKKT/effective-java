@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._3_singleton._2_private_static_final;
+package me.kktrkkt.effectivejava._03_singleton._2_private_static_final;
 
 // private static final로 선언하면 getInstance 메소드를 통해 인스턴스를 가져가게 된다.
 // 장점 1. getInstance 내부를 싱글톤이 아니라 새로운 인스턴스를 생성하게 해도 클라이언트 코드에는 영향이 가지 않는다.

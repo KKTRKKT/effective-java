@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._1_static_factory_method.flyweight;
+package me.kktrkkt.effectivejava._01_static_factory_method.flyweight;
 
 import java.util.HashMap;
 import java.util.Map;

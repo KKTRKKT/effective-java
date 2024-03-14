@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._7_dereferencing_used_objects;
+package me.kktrkkt.effectivejava._07_dereferencing_used_objects;
 
 /*
 다 쓴 객체 참조를 해제하라

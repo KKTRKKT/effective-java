@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._9_use_try_with_resources;
+package me.kktrkkt.effectivejava._09_use_try_with_resources;
 
 /*
     try finally 대신 try-with-resources를 사용해라

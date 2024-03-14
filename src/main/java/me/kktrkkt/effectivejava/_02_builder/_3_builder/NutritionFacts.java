@@ -1,6 +1,4 @@
-package me.kktrkkt.effectivejava._2_builder._3_builder;
-
-import lombok.Builder;
+package me.kktrkkt.effectivejava._02_builder._3_builder;
 
 // 필수값을 입력받게 강제하고, 불변객체로 만들 수 있는 장점이 있다.
 // 코드가 복잡해진다. lombok의 @Builder를 쓰면 간단해지지만 필수값을 받게할 수 없다.)

@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._1_static_factory_method.interface_and_static_method;
+package me.kktrkkt.effectivejava._01_static_factory_method.interface_and_static_method;
 
 import java.util.Comparator;
 import java.util.List;

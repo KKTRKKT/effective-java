@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._7_dereferencing_used_objects.stack;
+package me.kktrkkt.effectivejava._07_dereferencing_used_objects.stack;
 
 import org.junit.jupiter.api.Test;
 

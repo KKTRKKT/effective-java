@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._5_di;
+package me.kktrkkt.effectivejava._05_di;
 
 // 의존 객체의 인터페이스를 주입받아서 사용한다.
 // 의존 객체만 바꾸면 동작이 바뀐다.

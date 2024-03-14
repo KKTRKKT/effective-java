@@ -1,7 +1,7 @@
-package me.kktrkkt.effectivejava._3_singleton._3_enum;
+package me.kktrkkt.effectivejava._03_singleton._3_enum;
 
-import me.kktrkkt.effectivejava._3_singleton._2_private_static_final.Concert;
-import me.kktrkkt.effectivejava._3_singleton._2_private_static_final.Singer;
+import me.kktrkkt.effectivejava._03_singleton._2_private_static_final.Concert;
+import me.kktrkkt.effectivejava._03_singleton._2_private_static_final.Singer;
 
 public enum Elvis implements Singer {
     INSTANCE;

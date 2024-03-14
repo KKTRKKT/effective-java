@@ -1,14 +1,9 @@
-package me.kktrkkt.effectivejava._8_avoid_finalizer_and_cleaner.finalizer;
+package me.kktrkkt.effectivejava._08_avoid_finalizer_and_cleaner.finalizer;
 
 import org.junit.jupiter.api.Test;
 
 import java.lang.ref.ReferenceQueue;
-import java.lang.ref.WeakReference;
 import java.lang.reflect.Field;
-import java.util.ArrayList;
-import java.util.List;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class FinalizerExampleTest {
 

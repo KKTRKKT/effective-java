@@ -1,4 +1,4 @@
-package me.kktrkkt.effectivejava._1_static_factory_method.enumtype;
+package me.kktrkkt.effectivejava._01_static_factory_method.enumtype;
 
 public class Order {
 
