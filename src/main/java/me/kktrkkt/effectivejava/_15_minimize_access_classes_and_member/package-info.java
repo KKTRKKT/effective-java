@@ -14,4 +14,10 @@ package me.kktrkkt.effectivejava._15_minimize_access_classes_and_member;
         - public으로 설정할 시 API가 되므로 하위 호환성을 유지하려면 영원히 관리해야한다
         - package-private으로 선언하면 외부에서 사용할 수 없다
         - 한 클래스에서만 사용하는 package-private 클래스나 인터페이스는 해당 클래스의 private static 클래스로 선언한다.
+    - 멤버(변수, 메서드, 중첩 클래스/인터페이스)의 접근제한자 원칙
+        - private과 package-private은 내부 구현
+        - public과 protected는 공개 API
+        - 테스트를 위해 private -> private-package는 가능, 공개 API로 만드는건 X
+        - 공개 API의 인스턴스 필드는 되도록 public이 아니어야된다.
+        - public static final 배열 필드를 제공하거나 반환을 하지 말것
  */
