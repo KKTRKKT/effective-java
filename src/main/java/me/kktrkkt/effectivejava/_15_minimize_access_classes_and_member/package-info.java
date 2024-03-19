@@ -9,4 +9,9 @@ package me.kktrkkt.effectivejava._15_minimize_access_classes_and_member;
         - 모듈화가 되므로 성능의 문제가 있는 모듈만 개선 가능 -> 성능 최적화 쉬워짐
         - API는 구현과 분리되어 있으므 다른 모듈에서 사용하기 쉽다 -> 소프트웨어 재사용성을 높임
         - 각 모듈을 독립적으로 개발하므로 시스템 설계가 쉽다 -> 개발 난이도를 낮춤
+    - 클래스와 인터페이스의 접근제한자 원칙
+        - 톱 레벨의 클래스와 인터페이스에는 package-private과 public 접근제한자를 사용할 수 있다.
+        - public으로 설정할 시 API가 되므로 하위 호환성을 유지하려면 영원히 관리해야한다
+        - package-private으로 선언하면 외부에서 사용할 수 없다
+        - 한 클래스에서만 사용하는 package-private 클래스나 인터페이스는 해당 클래스의 private static 클래스로 선언한다.
  */
