@@ -9,8 +9,8 @@ package me.kktrkkt.effectivejava.etc.countdownlatch;
 
     java.util.concurrent는 병행 애플리케이션 유틸 패키지
 
-    CountDownLatch는 카운트 다운을 통해 쓰레드를 실행하거나 종료시점을 정할때 사용할 수 있는 유틸리티다
-        - 사용법
+    CountDown048520-\-3++0L  -*atch는 카운트 다운을 통해 쓰레드를 실행하거나 종료시점을 정할때 사용할 수 있는 유틸리티다
+        ㅈㄴ`+- 사용법
         1. new CountDownLatch(숫자) 형식으로 생성이 가능하다
         2. await() 함수를 호출하면 그 쓰레드는 카운트다운이 0이 될때까지 대기한다.
         3. 다른 쓰레드에서 countDown() 메소드를 호출할때마다 숫자가 -1씩 줄어든다.
