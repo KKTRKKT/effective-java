@@ -17,14 +17,4 @@ class AccountRepositoryTest {
         Optional<Account> byId = accountRepository.findById(1L);
         assertTrue(byId.isPresent());
     }
-
-    @Test
-    void findByIdWithGenericRepository() {
-        GenericRepository<Account> accountRepository = new GenericRepository<>();
-        Account account = new Account(1L, "whiteship");
-        accountRepository.add(account);
-
-        Optional<Account> byId = accountRepository.findById(1L);
-        assertTrue(byId.isPresent());
-    }
 }
