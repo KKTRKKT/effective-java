@@ -9,4 +9,6 @@ package me.kktrkkt.effectivejava._29_if_possible_make_it_a_generic_type;
                 - 힙 오염 가능성이 있다
             - Object 배열을 사용하고, 배열이 반환한 원소를 제네릭 타입으로 캐스팅하는 방법
                 - 힙 오염 문제는 없지만 원소를 꺼낼때마다 캐스팅이 필요함
+        - 타입 한정 매개변수를 사용하는 경우 ( <T extends Number> 형태)
+            - 제네릭 타입 배열을 사용할 수 없다. 배열 생성시 extends한 타입으로 치환해야하므로 타입 캐스팅 오류가 발생할 수 있다.
  */
